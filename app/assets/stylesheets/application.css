@@ -1,0 +1,21 @@
+body {
+  background: #e2b36d;
+  background-image: url("gtnoiseM.png");
+  font-family: Helvetica;
+  font-size: 12px;
+  line-height: 18px
+}
+
+#placeholder{
+	height: 170px;
+}
+
+#image{
+	width: 800px;
+	margin-left: auto; margin-right: auto;
+	-moz-box-shadow: 2px 3px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 2px 3px 5px rgba(0,0,0,0.5);
+	box-shadow: 2px 3px 5px rgba(0,0,0,0.5);	
+	width: 800px;
+	height: 296px;
+}
